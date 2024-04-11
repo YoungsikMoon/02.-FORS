@@ -2,13 +2,13 @@
 
 각 기능 구성 코드를 작성하고 해당 코드 참여자 Alias를 입력합니다.
 
-ex) MakingCode_Moon : 문영식
+ex) CreateCode_Moon : 문영식
 
-ex) MakingCode_Ki : 기은서
+ex) ReadCode_Ki : 기은서
 
-ex) MakingCode_Ho : 정호석
+ex) UpdateCode_Ho : 정호석
 
-ex) MakingCode_Soo : 조영수
+ex) DeleteCode_Soo : 조영수
 
 
 
