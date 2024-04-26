@@ -1,3 +1,7 @@
-WhisperAI_fine_tune_version6 : 뭔데?
-fasterWhisperAI_fine_tune_finetune : 뭐야?
-fasterWhisper_w_PEFT_finetune : 뭐야?
+# WhisperAI 2022 모델 적용
+
+* Common Voice 13으로 Whisper AI 와 Fast Whisper AI fine-tuning 하는 코드 및 설명
+
+WhisperAI_fine_tune_version6 : 
+fasterWhisperAI_fine_tune_finetune :
+fasterWhisper_w_PEFT_finetune : 
