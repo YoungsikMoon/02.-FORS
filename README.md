@@ -44,3 +44,6 @@ ex) 00_CoomentCrawling_Main
 
 datas : 각종 데이타셋 모음 (데이타카테고리별 하위 디렉토리에 업로드)
 
+## 인증 설정
+
+OpenAI 기능을 실행할 프로세스에 `OPENAI_API_KEY` 환경변수를 설정하세요. `.env.example`은 변수 이름 참고용이며, `.env` 파일을 자동으로 읽지는 않습니다. Hugging Face 인증은 `notebook_login()` 입력창에서 진행하세요. 키를 코드, 주석 또는 노트북 출력에 저장하지 마세요.
