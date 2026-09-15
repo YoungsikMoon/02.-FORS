@@ -108,7 +108,8 @@ def whisper_transcribe(folder_path, model):
 # return : 요약내용 리스트(list)
 def get_gpt_help(answer_lst):
     # 재우 API
-    GPT_API_KEY = "REDACTED_OPENAI_API_KEY"
+    from os import environ
+    GPT_API_KEY = environ["OPENAI_API_KEY"]
 
     # API 키로 LLM 객체 생성 (GPT와 연결해줌)
     # temperature : 생성된 텍스트의 다양성 조정
